@@ -1,5 +1,7 @@
 # Snowplow
 
+[![Join the chat at https://gitter.im/ApoorvaM/snowplow](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ApoorvaM/snowplow?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <img src="https://d3i6fms1cm1j0i.cloudfront.net/github-wiki/images/snowplow-logo-large.png"
  alt="Snowplow logo" title="Snowplow" align="right" />
 
